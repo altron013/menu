@@ -1,0 +1,18 @@
+
+img{
+    width: 300px;
+    height: 300px;
+}
+#price{
+    font-size: 20px;
+    font-weight: 500;
+    
+}
+#rating{
+    font-size: 18px;
+    font-weight: 400;
+}
+div{
+    background-image: "1.jpg";
+}
+
