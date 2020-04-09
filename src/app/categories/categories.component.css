@@ -6,7 +6,8 @@
     width: 15em;
   }
   div{
-    margin-left: 600px;
+    margin-left: 550px;
+    margin-top: 150px;
   }
   .heroes li {
     position: relative;

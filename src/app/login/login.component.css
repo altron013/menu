@@ -11,7 +11,7 @@ input[type=text], select {
   input[type=submit] {
     width: 50%;
     background-color: #4CAF50;
-    color: white;
+    color: rgb(19, 18, 18);
     padding: 14px 20px;
     margin: 8px 0;
     border: none;
@@ -25,8 +25,13 @@ input[type=text], select {
   
   div {
     border-radius: 5px;
-    background-color: #f2f2f2;
-    padding: 20px;
-    width: 30%;
+    background-color: #eee2de;
+    padding: 40px;
+    width: 30%;}
+    
 
-  }
+    
+    
+
+
+  

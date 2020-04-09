@@ -19,7 +19,7 @@ import { HomeComponent } from './home/home.component';
 import { LoginComponent } from './login/login.component';
 import { OrderComponent } from './order/order.component';
 
-
+import { ClickMeComponent } from './click-me.component';
 @NgModule({
   imports: [
     BrowserModule,
@@ -45,6 +45,7 @@ import { OrderComponent } from './order/order.component';
     HomeComponent,
     LoginComponent,
     OrderComponent,
+    ClickMeComponent,
 
   ],
   providers: [],
